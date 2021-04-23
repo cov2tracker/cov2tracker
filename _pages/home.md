@@ -23,25 +23,41 @@ Covid has wrought havoc with our lives since the beginning of 2020. Even with th
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+        <div class="image-wrapper">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/school-closures.png" alt="Slide 1" />
+            </div>
         </div>
         <div class="item">
+                <div class="image-wrapper">
+
                     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Children_and_youth_out_of_school_due_to_COVID-19_closures_and_Young_people_classified_as_NEET.png" alt="Slide 2" />
-                </div>     
+                </div>
+        </div>     
         <div class="item">
+                <div class="image-wrapper">
+
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/School_closures_due_to_the_Covid-19_pandemic_in_G20_countries.svg/1920px-School_closures_due_to_the_Covid-19_pandemic_in_G20_countries.svg.png" alt="Slide 3" />
-                </div> 
+                </div>
+        </div> 
         <div class="item">
+        <div class="image-wrapper">
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Https-doi.org-10.1073-pnas.2009637117-F4.large.jpg" alt="Slide 4" />
+            </div>
         </div>
         <div class="item">
+        <div class="image-wrapper">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Coronavirus_virion_structure.svg/1024px-Coronavirus_virion_structure.svg.png" alt="Slide 5" />
+            </div>
         </div>
         <div class="item">
+        <div class="image-wrapper">
             <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/LAMP_analysis_of_wastewater_%28Anal._Chem._2017%29.png" alt="Slide 6" />
+            </div>
         </div>
         <div class="item">
+        <div class="image-wrapper">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cycler_offen.JPG" alt="Slide 7" />
+            </div>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
