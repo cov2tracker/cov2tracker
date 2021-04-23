@@ -1,13 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "CoV-2 Tracker"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "CoV-2 Surveillance Screening Research Group"
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+Covid has wrought havoc with our lives since the beginning of 2020. Even with the rollout of vaccines, a general consensus is emerging among the scientific community that a return to some version of normalcy does not lie in a single “magic bullet,” but in a multifaceted approach. By way of example, the CDC has recently suggested that preventative asymptomatic screening could play an important role in allowing students to return to regular in person classroom instruction [CDC Operational Strategy for K-12 Schools through Phased Prevention](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/operation-strategy.html#anchor_1616080181070).  However, no policy suggestion will be helpful unless implemented on a large scale. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -23,27 +22,26 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/school-closures.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 2" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Children_and_youth_out_of_school_due_to_COVID-19_closures_and_Young_people_classified_as_NEET.png" alt="Slide 2" />
+                </div>     
+        <div class="item">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/School_closures_due_to_the_Covid-19_pandemic_in_G20_countries.svg/1920px-School_closures_due_to_the_Covid-19_pandemic_in_G20_countries.svg.png" alt="Slide 3" />
+                </div> 
+        <div class="item">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Https-doi.org-10.1073-pnas.2009637117-F4.large.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 3" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Coronavirus_virion_structure.svg/1024px-Coronavirus_virion_structure.svg.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 4" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/LAMP_analysis_of_wastewater_%28Anal._Chem._2017%29.png" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 7" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cycler_offen.JPG" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -59,18 +57,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+Society at large has an interest in all students safely attending school in person, and people safely returning to the workplace. We are trying to contribute to this goal by conducting research on the role of preventative COVID screening/testing in schools, other institutions and businesses. The research seeks to understand the ways in which schools, other institutions and businesses have been operating during the pandemic and their plans for the future. The research further seeks to gain insight into the role, if any, preventative screening/testing has played in the past or will play in the future. Finally, the research seeks to discern the type of screening/testing protocols schools, other institutions and businesses  have used and are considering going forward.
+ 
+The goal of the survey is to gain information that may help ease the transition back to greater normalcy.  All responses will be kept anonymous, and compiled results will be shared with all participants who self identify once the research is complete. Your participation in this project is greatly appreciated.
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
