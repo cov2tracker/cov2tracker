@@ -77,3 +77,8 @@ Society at large has an interest in all students safely attending school in pers
  
 The goal of the survey is to gain information that may help ease the transition back to greater normalcy.  All responses will be kept anonymous, and compiled results will be shared with all participants who self identify once the research is complete. Your participation in this project is greatly appreciated.
 
+<br/>
+
+<a class="take-survey-button" target="_blank" href="https://www.surveymonkey.com/r/Preview/?sm=K8o1Tfhm9TU6D6FrDcWx6xJawXMf4XERJIR0Z6YyGTMTCGcOJJltggTyTdevuyEL">Take School Reopening Survey Now</a>
+
+<br/>
