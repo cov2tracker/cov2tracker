@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-COVID has wrought havoc with our lives since the beginning of 2020. Even with the rollout of vaccines, a general consensus is emerging among the scientific community that a return to some version of normalcy does not lie in a single “magic bullet,” but in a multifaceted approach. By way of example, the CDC has recently suggested that preventative asymptomatic screening could play an important role in allowing students to return to regular in person classroom instruction [CDC Operational Strategy for K-12 Schools through Phased Prevention](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/operation-strategy.html#anchor_1616080181070).  However, no policy suggestion will be helpful unless implemented on a large scale. 
+COVID has wrought havoc on our lives since the beginning of 2020. Even with the rollout of vaccines, a general consensus is emerging among the scientific community that a return to normalcy does not lie in a single “magic bullet,” but in a multifaceted approach. By way of example, the CDC has recently suggested that preventative asymptomatic screening could play an important role in allowing students to return to regular in person classroom instruction. You can read the full recommendation in the [CDC Operational Strategy for K-12 Schools through Phased Prevention](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/operation-strategy.html#anchor_1616080181070).  However, no policy suggestion will be helpful unless implemented on a large scale. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -79,6 +79,6 @@ The goal of the survey is to gain information that may help ease the transition 
 
 <br/>
 
-<a class="take-survey-button" target="_blank" href="https://www.surveymonkey.com/r/Preview/?sm=K8o1Tfhm9TU6D6FrDcWx6xJawXMf4XERJIR0Z6YyGTMTCGcOJJltggTyTdevuyEL">Take School Reopening Survey Now</a>
+<a class="take-survey-button" target="_blank" href="https://www.surveymonkey.com/r/8RRSDJZ">Begin school reopening survey</a>
 
 <br/>
