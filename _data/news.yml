@@ -1,5 +1,11 @@
 
 
+- date: March 17, 2021
+  headline: "<a href='https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html'>COVID-19 guidance, tools, and resources for healthcare workers</a> CDC guidelines"
+
+- date: March 17, 2021
+  headline: "<a href='https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/symptom-screening.html'>Screening K-12 Students for Symptoms of COVID-19: Limitations and Considerations</a> CDC guidelines"
+
 - date: March 4, 2021
   headline: "<a href='https://en.unesco.org/covid19/educationresponse'>COVID-19 Educational Disruption and Response</a> report by UNESCO"
 
@@ -11,18 +17,11 @@
 
 - date: September 30, 2020
   headline: "<a href='https://www.nature.com/articles/s41535-020-00292-4'>Epidemiology and transmission dynamics of COVID-19 in two Indian states</a> in <i>Science</i>."
-
-- date: August 29, 2020
-  headline: "<a href='https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html?fbclid=IwAR1k4MLVxOB1tbS3okLy0RTPjOHO187vqYC4344YL838F7E3Ga5laCldslk'>Your Coronavirus Test Is Positive. Maybe It Shouldn’t Be.</a> in <i>The New York Times</i>."
-
-- date: August 20, 2020
-  headline: "<a href='https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html?fbclid=IwAR1I8hi-VnBAfxSH5TxFgx89aJZyjo-0gwepLMye0lqo4--U7nXLePzkZ1k'>What if We Worried Less About the Accuracy of Coronavirus Tests?</a> in <i>The New York Times</i>."
-
-- date: August 16, 2020
-  headline: "<a href='https://www.microbe.tv/twiv/twiv-654/'>TWIV 654 - Daniel Griffin MD, PhD</a>"
-
 - date: August 14, 2020
   headline: "<a href='https://www.vumedi.com/video/rapid-testing-for-covid-19-why-dont-we-all-have-rapid-tests-today-what-are-the-different-sorts-of-ra/'>Michael Mina talk - Vumedi</a>"
 
 - date: June 23, 2020
   headline: "<a href='https://www.biorxiv.org/content/10.1101/2020.06.23.166397v2'>A rapid, highly sensitive and open-access SARS-CoV-2 detection assay for laboratory and home testing</a>"
+
+- date: September 24, 2008 – present
+  headline: "<a href='https://www.microbe.tv/twiv/'>This Week in Virology</a> with Dr. Vincent Racaniello, Ph.D"

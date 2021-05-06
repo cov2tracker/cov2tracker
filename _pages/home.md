@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-COVID has wrought havoc on our lives since the beginning of 2020. Even with the rollout of vaccines, a general consensus is emerging among the scientific community that a return to normalcy does not lie in a single “magic bullet,” but in a multifaceted approach. By way of example, the CDC has recently suggested that preventative asymptomatic screening could play an important role in allowing students to return to regular in person classroom instruction. You can read the full recommendation in the [CDC Operational Strategy for K-12 Schools through Phased Prevention](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/operation-strategy.html#anchor_1616080181070).  However, no policy suggestion will be helpful unless implemented on a large scale. 
+COVID has wrought havoc on our lives since the beginning of 2020. Even with the rollout of vaccines, a general consensus is emerging among the scientific community that a return to normalcy does not lie in a single “magic bullet,” but in a multifaceted approach. By way of example, the CDC has [recently suggested](https://www.axios.com/axios-event-covid-testing-322f7fe2-556a-4deb-aac6-b1056d5d1316.html) that preventative asymptomatic screening could play an important role in containing COVID.  However, no policy suggestion will be helpful unless implemented on a large scale. 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="h  over" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -70,15 +70,18 @@ COVID has wrought havoc on our lives since the beginning of 2020. Even with the 
   </a>
 </div>
 
+Society at large has an interest in has an interest in preventing a reoccurrence of COVID, and people safely returning to their regular routines. We are trying to contribute to this goal by conducting research on the role of preventative COVID screening/testing in schools, long-term care facilities, summer camps, offices, and other institutional environments. The research seeks to gain insight into the way various entities have employed preventative COVID screening/testing in the past or may do so in the future. 
 
+We understand potential survey participants are busy, but broad participation in this brief survey is very important to get valid data. *It should take fewer than 5 minutes to complete.* If you are not the correct person in your organization to complete this survey, please forward it to such person.  
 
+The goal of the survey is to gain information that may help ease the transition back to greater normalcy. All responses will be kept anonymous, and compiled results will be shared with all participants who self-identify once the research is complete. Thank you in advance for your time and participation in this high-impact project, with potential benefits throughout society. 
 
-Society at large has an interest in all students safely attending school in person, and people safely returning to the workplace. We are trying to contribute to this goal by conducting research on the role of preventative COVID screening/testing in schools, other institutions and businesses. The research seeks to understand the ways in which schools, other institutions and businesses have been operating during the pandemic and their plans for the future. The research further seeks to gain insight into the role, if any, preventative screening/testing has played in the past or will play in the future. Finally, the research seeks to discern the type of screening/testing protocols schools, other institutions and businesses  have used and are considering going forward.
- 
-The goal of the survey is to gain information that may help ease the transition back to greater normalcy.  All responses will be kept anonymous, and compiled results will be shared with all participants who self identify once the research is complete. Your participation in this project is greatly appreciated.
 
 <br/>
 
+<div class="survey-buttons">
 <a class="take-survey-button" target="_blank" href="https://www.surveymonkey.com/r/8RRSDJZ">Begin school reopening survey</a>
+<a class="take-survey-button" target="_blank" href="https://www.surveymonkey.com/r/F7MJ2QX">Begin long-term care facility survey</a>
+</div>
 
 <br/>
